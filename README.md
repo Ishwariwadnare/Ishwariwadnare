@@ -51,44 +51,67 @@
 </p>
 
 ---
-
-# 🌸 Featured Projects
-
-## 🛍️ Alsinic Art
-
-A Full Stack Personalized Gift Website
-
-✨ Features
-
-- Authentication
-- Wishlist
-- Shopping Cart
-- Admin Dashboard
-- Product Search
-- Categories
-- Responsive Design
-
-**Tech Stack**
-
-React • Node • Express • MySQL • Tailwind CSS
+# 🚀 Featured Projects
 
 ---
 
-## ☕ Demo Cafe
+## 🌸 Alsinic Art – Personalized Gift E-Commerce Platform
 
-Responsive Cafe Landing Page
+<img width="100%" src="YOUR_PROJECT_SCREENSHOT"/>
 
-- React
-- Tailwind CSS
-- Modern UI
+### 📖 Description
+
+Alsinic Art is a full-stack e-commerce platform built for personalized handmade gifts. Users can browse products, search by category, add items to their wishlist or cart, and place orders through a clean and responsive interface. An admin dashboard allows easy product management and inventory updates.
+
+### ✨ Key Features
+
+- 🔐 Secure Admin Authentication
+- 🛍️ Product Collection & Categories
+- ❤️ Wishlist Management
+- 🛒 Shopping Cart
+- 🔎 Search & Filter Products
+- 📱 Fully Responsive Design
+- ⚡ Fast & Modern UI
+
+### 🛠️ Tech Stack
+
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `MySQL`
+
+### 🔗 Links
+
+🌐 **Live Demo:** https://your-live-link.com
+
+💻 **Source Code:** https://github.com/yourusername/alsinic-art-project
 
 ---
 
-## 👩‍💻 Portfolio
+## ☕ Demo Cafe – Modern Cafe Landing Page
 
-Personal Developer Portfolio
+<img width="100%" src="YOUR_CAFE_SCREENSHOT"/>
 
----
+### 📖 Description
+
+Demo Cafe is a modern and responsive landing page designed for cafes and restaurants. It focuses on clean UI, engaging visuals, and smooth user experience while showcasing menu items, services, and contact information.
+
+### ✨ Key Features
+
+- ☕ Modern Landing Page
+- 📱 Mobile Responsive
+- 🎨 Beautiful UI Design
+- ⚡ Fast Performance
+- 🧩 Reusable React Components
+
+### 🛠️ Tech Stack
+
+`React.js` `Tailwind CSS`
+
+### 🔗 Links
+
+🌐 **Live Demo:** https://your-demo-cafe-link.com
+
+💻 **Source Code:** https://github.com/yourusername/demo-cafe
+
+
 
 # 📊 GitHub Stats
 
@@ -106,11 +129,7 @@ Personal Developer Portfolio
 
 ---
 
-# 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
 
 # 🌐 Connect With Me
 
