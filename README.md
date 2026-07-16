@@ -135,11 +135,11 @@ Demo Cafe is a modern and responsive landing page designed for cafes and restaur
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ishwari-wadnare/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
