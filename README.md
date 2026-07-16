@@ -139,7 +139,7 @@ Demo Cafe is a modern and responsive landing page designed for cafes and restaur
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="">
+<a href="https://wonderful-medovik-64e437.netlify.app/">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
