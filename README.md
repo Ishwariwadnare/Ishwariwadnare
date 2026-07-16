@@ -143,7 +143,7 @@ Demo Cafe is a modern and responsive landing page designed for cafes and restaur
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:wadnareishwari@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
